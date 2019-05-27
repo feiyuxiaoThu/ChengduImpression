@@ -26,8 +26,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 {
 	settings: {
     width: '100%',
-    height: '300px',
-    border: '1px solid red'
+    height: '300px'
   },
     title: {
         text: 'GDP Data'
@@ -548,8 +547,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
     },
 	settings: {
 	width: '100%',
-	height: '300px',
-	border: '1px solid red'
+	height: '300px'
   },
     xAxis:  {
         type: 'category',
@@ -602,8 +600,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
     },
 		settings: {
 	width: '100%',
-	height: '300px',
-	border: '1px solid red'
+	height: '300px'
   },
     xAxis: {
         type: 'value',
@@ -671,12 +668,11 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
             <td width="400">
 ```chart
 {
-	backgroundColor:'#394056',
+	backgroundColor:'',
 	title:{
 	textStyle:{
 		fontWeight:'normal',
-		fontSize:16,
-		color:'#F1F1F3'
+		fontSize:16
 	},
 	left:'6%'
 	},
@@ -696,8 +692,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 		data:['Belief Index of Development in Chengdu','Happiness Index of Living in Chengdu'],
 		right:'10%',
 		textStyle:{
-			fontSize:12,
-			color:'#F1F1F3'
+			fontSize:12
 		}
 	},
 	grid:{
@@ -1168,6 +1163,98 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 ## But Chengdu is big
 ### Let's take a look at housing. 
 ### Supply and demand: days on market.
+
+### Housing
+```chart
+{
+    color: ['#5793f3','#d14a61'],
+	tooltip:{
+		trigger:'axis',
+		axisPointer:{type:'cross'}
+	},
+	toolbox:{
+		feature:{
+			dataView:{show:true,readOnly:false},
+			restore:{show:true},
+			saveAsImage:{show:true}
+		}
+	},    
+    legend:{
+        data:['house price (RMB/m2)', 'sales area (10,000m2)']
+    },
+    xAxis: {
+        type: 'category',
+        axisTick:{
+            alignWithLabel:true
+        },
+        data: ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+    },
+	yAxis:[{
+		type:'value',
+		name:'house price',
+		min: 0,
+		max: 9000,
+		position:'left',
+		axisLine:{
+			lineStyle:{
+				color:'#5793f3'
+			}
+		},
+		axisLabel:{
+			formatter:'{value}'
+		}
+		},
+		{type:'value',
+		name:'sales area',
+		min: 0,
+		max: 3500,
+		position:'right',
+		axisLine:{
+			lineStyle:{
+				color:'#d14a61'
+			}
+		},
+		axisLabel:{
+			formatter:'{value}'
+		}
+		}
+		
+	],
+	series:[
+	{
+		name:'house price (RMB/m2)',
+		type:'line',
+		data:[
+		4864.00,
+		5827.00,
+		6360.89,
+		6678.46,
+		6708.00,
+		6536.00,
+		6584.00,
+		7377.00,
+		8595.00
+		]
+	},
+	{
+		name:'sales area (10,000m2)',
+		type:'line',
+		yAxisIndex:1,
+		data:[
+		2547.59,
+		2289.92,
+		2284.91,
+		2424.61,
+		2555.81,
+		2476.25,
+		2447.13,
+        3279.17,
+        2976.47
+		]
+	},
+	]
+}
+```
 
 ## Data Sources
 

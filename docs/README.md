@@ -1,6 +1,6 @@
 <script src="../pkgs/echarts.min.js"></script>
 # <audio autoplay="" loop=""><source src="/_media/chengdu.mp3"></audio>
-# The Exploration of Landscape of Chengdu
+# ChengduExploration
 
 
   
@@ -1058,104 +1058,10 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 
 ## Businesses
 ### Overview
-```chart
-{
-	color: ['#5793f3','#d14a61'],    //颜色
-	
-	tooltip:{
-		trigger:'axis',
-		axisPointer:{type:'cross'}
-	},
-	grid:{
-		right:'10%'
-	},
-	toolbox:{
-		feature:{
-			dataView:{show:true,readOnly:false},
-			restore:{show:true},
-			saveAsImage:{show:true}
-		}
-	},
-	legend:{
-		data:['社会商品零售总额（亿元）','货物进出口总额（百万美元）']
-	},
-	xAxis:[
-		{
-			type:'category',
-			axisTick:{
-				alignWithLabel:true
-			},
-			data:['2009','2010','2011','2012','2013','2014','2015','2016','2017']
-		}
-	],
-	yAxis:[{
-		type:'value',
-		name:'零售（亿元）',
-		min: 0,
-		max: 8000,
-		position:'right',
-		axisLine:{
-			lineStyle:{
-				color:'#5793f3'
-			}
-		},
-		axisLabel:{
-			formatter:'{value}'
-		}
-		},
-		{type:'value',
-		name:'进出口（百万美元）',
-		min: 0,
-		max: 60000,
-		position:'left',
-		//offset:80,
-		axisLine:{
-			lineStyle:{
-				color:'#d14a61'
-			}
-		},
-		axisLabel:{
-			formatter:'{value}'
-		}
-		}
-		
-	],
-	series:[
-	{
-		name:'社会商品零售总额（亿元）',
-		type:'line',
-		data:[
-		1949.9,
-		2417.6,
-		2861.3,
-		3317.7,
-		3752.9,
-		4468.9,
-		4969.2,
-                                5742.4,
-                                6403.5
-		]
-	},
-	{
-		name:'货物进出口总额（百万美元）',
-		type:'line',
-		yAxisIndex:1,
-		data:[
-		17863,
-		22449,
-		37906,
-		47539,
-		50585,
-		55844,
-		39531,
-                                41008,
-                                58315
-		]
-	},
-	]
-}
-```
+<iframe src="/_media/chengdubusiness.html" frameborder="0" height='420'></iframe>
 
+### Efficency of tranportation
+<iframe src="/_media/Commuting time.html" frameborder="0" height='420'></iframe>
 
 ### What about tech? 
 ### A short look at the taxi industry.
@@ -1166,7 +1072,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 
 ### Housing
 
-<iframe src="/_media/chengdubusiness.html" frameborder="0" height='420'></iframe>
+
 
 ## Data Sources
 

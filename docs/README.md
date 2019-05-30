@@ -1058,11 +1058,10 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 
 ## Businesses
 ### Overview
-<iframe src="/_media/chengdubusiness.html" frameborder="0" height='420'></iframe>
+<iframe src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Code/Commuting%20time.html" frameborder="0" height='420' ':include'></iframe>
 
 ### Efficency of tranportation
-<iframe src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Code/Commuting time.html" frameborder="0" height='420'></iframe>
-
+[cinwell website](https://feiyuxiaothu.github.io/ChengduImpression/_media/chengdubusiness.html ':include :type=iframe width=100% height=400px')
 ### What about tech? 
 ### A short look at the taxi industry.
 
@@ -1071,8 +1070,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 ### Supply and demand: days on market.
 
 ### Housing
-<iframe src="chengdubusiness.html" frameborder="0" height='420'></iframe>
-TEST
+
 ## Data Sources
 
 ## About Us

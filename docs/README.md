@@ -1058,8 +1058,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 
 ## Businesses
 ### Overview
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/chartjs.html" width="100%" height="450px"   frameborder="1/0"     scrolling="no">   
-</iframe>
+
 
 ### Efficency of tranportation
 
@@ -1086,6 +1085,9 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 </iframe>
 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/LivingDensity.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/PyramidDensity.html" width="100%" height="420px"   frameborder="1/0"     scrolling="no">   
 </iframe>
  
 ### Let's take a look at housing. 

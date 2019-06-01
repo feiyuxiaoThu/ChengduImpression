@@ -1068,13 +1068,123 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 </iframe>
 
 ### What about tech? 
-### A short look at the taxi industry.
+#### A short look at the taxi industry.
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/keplerChengduTaxi.html" width="100%" height="450px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+
+### Overview
 
 ## But Chengdu is big
+### Administrative districts
+
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/keplerChengduMap.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+
+### Living and Working 
+
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/WorkingDensity.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/LivingDensity.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+ 
 ### Let's take a look at housing. 
 ### Supply and demand: days on market.
 
 ### Housing
+
+
+```chart
+option = {
+    color: ['#5793f3','#d14a61'],
+	tooltip:{
+		trigger:'axis',
+		axisPointer:{type:'cross'}
+	},
+	toolbox:{
+		feature:{
+			dataView:{show:true,readOnly:false},
+			restore:{show:true},
+			saveAsImage:{show:true}
+		}
+	},    
+    legend:{
+        data:['house price (RMB/m2)', 'sales area (10,000m2)']
+    },
+    xAxis: {
+        type: 'category',
+        axisTick:{
+            alignWithLabel:true
+        },
+        data: ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+    },
+	yAxis:[{
+		type:'value',
+		name:'house price',
+		min: 0,
+		max: 9000,
+		position:'left',
+		axisLine:{
+			lineStyle:{
+				color:'#5793f3'
+			}
+		},
+		axisLabel:{
+			formatter:'{value}'
+		}
+		},
+		{type:'value',
+		name:'sales area',
+		min: 0,
+		max: 3500,
+		position:'right',
+		axisLine:{
+			lineStyle:{
+				color:'#d14a61'
+			}
+		},
+		axisLabel:{
+			formatter:'{value}'
+		}
+		}
+		
+	],
+	series:[
+	{
+		name:'house price (RMB/m2)',
+		type:'line',
+		data:[
+		4864.00,
+		5827.00,
+		6360.89,
+		6678.46,
+		6708.00,
+		6536.00,
+		6584.00,
+		7377.00,
+		8595.00
+		]
+	},
+	{
+		name:'sales area (10,000m2)',
+		type:'line',
+		yAxisIndex:1,
+		data:[
+		2547.59,
+		2289.92,
+		2284.91,
+		2424.61,
+		2555.81,
+		2476.25,
+		2447.13,
+        3279.17,
+        2976.47
+		]
+	},
+	]
+}
+```
+
 
 ## Data Sources
 

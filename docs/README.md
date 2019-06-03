@@ -1187,11 +1187,47 @@ option = {
 }
 ```
 
-
 ## Data Sources
 
+### Data from government
+<span style="font-size: 20px; font-weight: 600">National Bureau of Statistics</span> has made its database public. We can get access to the GDP data, the Industrial index and housing price data of Chengdu, and also we can get the data of other cities for comparision.
+
+Here is the National database:
+http://data.stats.gov.cn/index.htm
+
+Chengdu government provides datasets of several aspects, such as transportation data, housing data and
+employment data. And we can get access to almost all aspects of this city through the database.
+
+Here is the Chengdu public data open platform.
+http://www.cddata.gov.cn/odweb/index.htm.
+
+
+Futhermore, we have access to the Statistical yearbook of Chengdu and Sichuan Province, which are
+available at :
+http://www.cdstats.chengdu.gov.cn/htm/detail_123764.htmlandhttp://tjj.sc.gov.cn/tjcbw/tjnj/2017/zk/indexch.htm.
+
+### Data from other platforms
+
+<span style="font-size: 20px; font-weight: 600">Housing data</span>: Lianjia is a website with rich and real-time real estate data, and we can easily get historical prices or compare prices in different regions via its API interface of the website :
+https://cd.lianjia.com/.
+
+<span style="font-size: 20px; font-weight: 600">Employment</span>: Lagou is a platform for job seekers, so we can get the supply and demand data in the job market which can help us to analyze the industry development and economic expectations. The Lagou
+website is:
+https://www.lagou.com/gongsi/252-0-0-0
+
+<span style="font-size: 20px; font-weight: 600">Note</span>: Filtered data is available at our project repository:
+[Exploration of Chengdu Landscope](https://github.com/feiyuxiaoThu/Exploration-of-Chengdu-Landscope)
+
+## Tools
+
+[Mapbox](https://www.mapbox.com/) To make map     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;           [Kepler.gl](https://kepler.gl/) To make map data visualization
+
+[Echarts.js](https://echarts.baidu.com/) To make various charts &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Highcharts.js](https://www.highcharts.com/) Also to make interactive charts
+
+[Geojson.io](http://geojson.io) To process json files &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;    [Docsify](https://github.com/docsifyjs/docsify/) A magical documentation site generator
+
 ## About Us
-Our names are [Xiao Feiyu](https://github.com/feiyuxiaothu), Fang Xiaonan and Zhang yusheng.
+Our names are [Xiao Feiyu](https://github.com/feiyuxiaothu), [Fang Xiaonan](https://github.com/fornorp) and [Zhang Yusheng](https://github.com/x2yszzz).
 
 This project was created for the 2019Spring course : Data Visualization, at the Department os Computer Science within Tsinghua University.
 

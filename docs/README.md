@@ -418,7 +418,36 @@ In addition to employment, the level of growth in personal income can reflect th
 			data:['2010','2011','2012','2013','2014','2015','2016']
 		}
 	],
-	yAxis:[
+	yAxis:[{
+		type:'value',
+		name:'Chengdu',
+		min: 0,
+		max: 80000,
+		position:'right',
+		axisLine:{
+			lineStyle:{
+				color:'#5793f3'
+			}
+		},
+		axisLabel:{
+			formatter:'{value}'
+		}
+		},
+		{type:'value',
+		name:'Sichuan',
+		min: 0,
+		max: 80000,
+		position:'right',
+		offset:80,
+		axisLine:{
+			lineStyle:{
+				color:'#d14a61'
+			}
+		},
+		axisLabel:{
+			formatter:'{value}'
+		}
+		},
 		{type:'value',
 		name:'Per capita GDP',
 		min: 0,

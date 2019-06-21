@@ -237,7 +237,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 		{
 		"name":"Whole GDP",
 		'type':'line',
-		'stack':'总量',
+		'stack':'总量2',
 		symbolSize:10,
 		symbol:'circle',
 		'itemStyle':{

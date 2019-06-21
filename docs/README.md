@@ -1176,11 +1176,11 @@ option = {
 ```
 
 We compare the house price with other second-tier cities: Chongqing, Xi'an and Wuhan.
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/area-basic.html" width="100%" height="600px"   frameborder="1/0"     scrolling="no">   
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/area-basic.html" width="130%" height="600px"   frameborder="1/0"     scrolling="yes">   
 </iframe>
 
 We also visualize the house price in each district and its trend.
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0"     scrolling="no">   
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="130%" height="600px"   frameborder="1/0"     scrolling="yes">   
 </iframe>
 
 

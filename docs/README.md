@@ -199,7 +199,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 					'textStyle':{
 						'color':"#fff"
 					},
-					'position':'insideCenter',
+					'position':'center',
 					formatter: function(p){
 						return p.value > 0 ? (p.value):"";
 					}
@@ -233,7 +233,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 					'textStyle':{
 						'color':"#fff"
 					},
-					'position':'insideCenter',
+					'position':'center',
 					formatter: function(p){
 						return p.value > 0 ? (p.value):"";
 					}
@@ -257,7 +257,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 					'textStyle':{
 						'color':"#fff"
 					},
-					'position':'insideCenter',
+					'position':'center',
 					formatter: function(p){
 						return p.value > 0 ? (p.value):"";
 					}

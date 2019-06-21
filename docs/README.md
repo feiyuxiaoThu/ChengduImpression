@@ -816,18 +816,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 			fontSize:12
 		}
 	},
-	tooltip:{
-		trigger:'item',
-		formatter: function(res){
-			console.log(res)
-			
-			if (res.componentSubType == 'liquidFill'){
-				return res.seriesName + ':' + (res.value*10000/100).toFixed(2) + '%';
-			} else {
-				return '<span class="ii" style="background:' + res.color+'"></span>' + res.name;
-			}
-		}
-	},
+
 	series:[{
 		type:'liquidFill',
 		itemStyle:{

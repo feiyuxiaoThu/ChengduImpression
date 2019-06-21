@@ -1175,11 +1175,11 @@ option = {
 }
 ```
 
-We compare the house price with other second-tier cities: Chongqing, Xi'an and Wuhan.
+We compare the unit house price with other second-tier cities: Chongqing, Xi'an and Wuhan from 2010 to 2019.
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/area-basic.html" width="1200px" height="600px"   frameborder="1/0" scrolling="yes">   
 </iframe>
 
-We also visualize the house price in each district and its trend.
+We also visualize the unit house price in each district and its trend from 2010 to 2019.
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="1200px" height="600px"   frameborder="1/0" scrolling="yes">   
 </iframe>
 

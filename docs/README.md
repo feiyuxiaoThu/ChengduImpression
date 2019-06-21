@@ -824,7 +824,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 			if (res.componentSubType == 'liquidFill'){
 				return res.seriesName + ':' + (res.value*10000/100).toFixed(2) + '%';
 			} else {
-				return '<span class="ii" style="background:' + res.color+'"></span>' + res.name + ':<br/>' + res.data.value;
+				return '<span class="ii" style="background:' + res.color+'"></span>' + res.name + ':<br/>' + res.data.value + '%';
 			}
 		}
 	},
@@ -837,9 +837,9 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 				shadowColor:'blue'
 			}
 		},
-		name:'今日',
+		name:'Chengdu',
 		data:[{
-			value: 0.6,
+			value: 28.74,
 			itemStyle:{
 				normal:{
 					color:'#53d5ff',

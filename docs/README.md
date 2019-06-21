@@ -828,7 +828,7 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 		},
 		name:'Chengdu',
 		data:[{
-			value: 0.224,
+			value: 0.6,
 			itemStyle:{
 				normal:{
 					color:'#53d5ff',

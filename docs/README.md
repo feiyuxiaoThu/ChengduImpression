@@ -185,7 +185,40 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
         }
     ],
     series: [
-
+		{
+		"name":"Primary Industry",
+		'type':'bar',
+		'stack':'总量',
+		'barMaxWidth':35,
+		'barGap':'10%',
+		'itemStyle':{
+			'normal':{
+				'color':'rgba(144,280,128,1)',
+				'label':{
+					'show':false,
+					'textStyle':{
+						'color':"#fff"
+					},
+					'position':'insideCenter',
+					formatter: function(p){
+						return p.value > 0 ? (p.value):"";
+					}
+				}
+			}
+		},
+		'data':[
+		267.77,
+		285.1,
+		327.34,
+		348.1,
+		353.17,
+		357.07,
+		373.15,
+		474.94,
+		500.87
+		]
+		},
+		
 		{
 		"name":"Secondary Industry",
 		'type':'bar',
@@ -200,7 +233,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 					'textStyle':{
 						'color':"#fff"
 					},
-					'position':'insideTop',
+					'position':'insideCenter',
 					formatter: function(p){
 						return p.value > 0 ? (p.value):"";
 					}
@@ -224,7 +257,7 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 					'textStyle':{
 						'color':"#fff"
 					},
-					'position':'insideTop',
+					'position':'insideCenter',
 					formatter: function(p){
 						return p.value > 0 ? (p.value):"";
 					}
@@ -258,39 +291,6 @@ The total economic output of Chengdu has a considerable proportion in Sichuan Pr
 		'data':[4503, 5551.3, 6854.58, 8138.9, 9108.89, 10056.59, 10801.16,12170.23,13889.39]
 		},
 		
-		{
-		"name":"Primary Industry",
-		'type':'bar',
-		'stack':'总量',
-		'barMaxWidth':35,
-		'barGap':'10%',
-		'itemStyle':{
-			'normal':{
-				'color':'rgba(144,280,128,1)',
-				'label':{
-					'show':false,
-					'textStyle':{
-						'color':"#fff"
-					},
-					'position':'insideTop',
-					formatter: function(p){
-						return p.value > 0 ? (p.value):"";
-					}
-				}
-			}
-		},
-		'data':[
-		267.77,
-		285.1,
-		327.34,
-		348.1,
-		353.17,
-		357.07,
-		373.15,
-		474.94,
-		500.87
-		]
-		},
 		
 	]
 	}

@@ -1081,10 +1081,8 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 </iframe>
  
 ### Let's take a look at housing. 
-### Supply and demand: days on market.
 
-### Housing
-
+The following figure exhibits the general house sales data in Chengdu.
 
 ```chart
 option = {
@@ -1177,6 +1175,15 @@ option = {
 }
 ```
 
+We compare the house price with other second-tier cities: Chongqing, Xi'an and Wuhan.
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/area-basic.html" width="100%" height="600px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+
+We also visualize the house price in each district and its trend.
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0"     scrolling="no">   
+</iframe>
+
+
 ## Data Sources
 
 ### Data from government
@@ -1198,8 +1205,8 @@ http://www.cdstats.chengdu.gov.cn/htm/detail_123764.htmlandhttp://tjj.sc.gov.cn/
 
 ### Data from other platforms
 
-<span style="font-size: 20px; font-weight: 600">Housing data</span>: Lianjia is a website with rich and real-time real estate data, and we can easily get historical prices or compare prices in different regions via its API interface of the website :
-https://cd.lianjia.com/.
+<span style="font-size: 20px; font-weight: 600">Housing data</span>: Anjuke is a website with rich and real-time real estate data, and we can easily get historical prices or compare prices in different regions via its API interface of the website :
+https://www.anjuke.com/fangjia/.
 
 <span style="font-size: 20px; font-weight: 600">Employment</span>: Lagou is a platform for job seekers, so we can get the supply and demand data in the job market which can help us to analyze the industry development and economic expectations. The Lagou
 website is:

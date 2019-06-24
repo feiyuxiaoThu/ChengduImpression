@@ -1069,7 +1069,7 @@ Software industry and scientific research are also developing well.
 The financial industry occupies a large proportion in the tertiary industry and its development trend is very stable.
 The proportion of the real estate industry fluctuates slightly.
 
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Finance&Real_Estate.html" width="100%" height="800px"   frameborder="1/0"     scrolling="no">  
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Finance&Real_Estate.html" width="100%" height="600px"   frameborder="1/0"     scrolling="no">  
 </iframe>
 
 ### Efficency of tranportation

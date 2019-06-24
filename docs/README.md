@@ -1059,7 +1059,7 @@ Chengdu's retail industry has developed steadily in recent years. Import and exp
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/ImportandSales.html" width="100%" height="400px"   frameborder="1/0"     scrolling="no">  
 </iframe>
 
-Businesses are considered to be a driving force behind Seattle's rapid growth. Especially the tertiary industry in Chengdu has developed rapidly in recent years.
+<span style="font-size: 20px; font-weight: 600">Businesses</span> are considered to be a driving force behind Seattle's rapid growth. Especially the tertiary industry in Chengdu has developed rapidly in recent years.
 Among them, the performance of the financial industry is particularly outstanding.
 Software industry and scientific research are also developing well.
 
@@ -1069,7 +1069,7 @@ Software industry and scientific research are also developing well.
 The financial industry occupies a large proportion in the tertiary industry and its development trend is very stable.
 The proportion of the real estate industry fluctuates slightly.
 
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Finance&Real_Estate.html" width="100%" height="600px"   frameborder="1/0"     scrolling="no">  
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Finance&Real_Estate.html" width="100%" height="750px"   frameborder="1/0"     scrolling="no">  
 </iframe>
 
 ### Efficency of tranportation

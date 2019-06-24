@@ -1064,17 +1064,10 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 ### Overview
 
 ## But Chengdu is big
-### Administrative districts
-
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/keplerChengduMap.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
-</iframe>
 
 ### Living and Working 
 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/WorkingDensity.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
-</iframe>
-
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/LivingDensity.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
 </iframe>
 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/PyramidDensity.html" width="100%" height="420px"   frameborder="1/0"     scrolling="no">   

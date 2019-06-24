@@ -1109,7 +1109,7 @@ It can be seen that the vast majority of Chengdu people live and work in the fou
  
 ### Let's take a look at housing. 
 
-The following figure exhibits the general house sales data in Chengdu.
+The following figure exhibits the general house sales data in Chengdu. Chengdu's house price has been drastically increasing since 2017.
 
 ```chart
 option = {
@@ -1139,7 +1139,7 @@ option = {
 		type:'value',
 		name:'house price',
 		min: 0,
-		max: 9000,
+		max: 10000,
 		position:'left',
 		axisLine:{
 			lineStyle:{
@@ -1200,11 +1200,11 @@ option = {
 }
 ```
 
-We compare the unit house price with other second-tier cities: Chongqing, Xi'an and Wuhan from 2010 to 2019.
+We compare the unit house price with other second-tier cities: Chongqing, Xi'an and Wuhan from 2010 to 2019. Note that all of the four cities witnessed significant increase from 2016 to 2018. In general the price in Chengdu is lower than Wuhan but higher than Xi'an and Chongqing.
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/area-basic.html" width="1200px" height="600px"   frameborder="1/0" scrolling="yes">   
 </iframe>
 
-We also visualize the unit house price in each district and its trend from 2010 to 2019.
+We also visualize the unit house price in each district and its trend from 2010 to 2019. The price is extremely high in the central districts, where the working density and living density are very high.
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0">   
 </iframe>
 

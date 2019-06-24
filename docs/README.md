@@ -665,10 +665,13 @@ since 2000. Although the increase speed has slowed down since 2010, its populati
 
 ### Moving To Chengdu!
 
+Chengdu has an excellent performance in popularity and attracting immigrants, perhaps because of its comfortable life, relatively little pressure and great potential for future development.
+Surprisingly, Chengdu attracts a large number of immigrants from Chongqing, and people from Guangzhou, Shenzhen and even Beijing are also attracted to Chengdu.
 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/PopulationMovement.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">  
 </iframe>
 
+According to a survey, Chengdu's development index and resident happiness index have been at a high level and rising in recent years, and Chengdu has become the most popular city, such as Hangzhou, Suzhou and Xiamen at a very high rate of 28.94%.
 
 <table width="800" style="margin-left: auto; margin-right: auto;">
         <tr>

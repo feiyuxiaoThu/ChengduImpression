@@ -1068,7 +1068,7 @@ The proportion of the real estate industry fluctuates slightly.
 
 ### Efficency of tranportation
 
-test 4
+The commuting conditions of Chengdu are better and the commuting time is short, which shows that the development and planning of traffic in Chengdu are excellent.
 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Commuting%20time.html" width="100%" height="450px"   frameborder="1/0"     scrolling="no">   
 </iframe>
@@ -1193,6 +1193,7 @@ We also visualize the unit house price in each district and its trend from 2010 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0">   
 </iframe>
 
+## Bringing it all together
 
 ## Data Sources
 

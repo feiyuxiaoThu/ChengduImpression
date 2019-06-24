@@ -1059,7 +1059,7 @@ Chengdu's retail industry has developed steadily in recent years. Import and exp
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/ImportandSales.html" width="100%" height="400px"   frameborder="1/0"     scrolling="no">  
 </iframe>
 
-The tertiary industry in Chengdu has developed rapidly in recent years.
+Businesses are considered to be a driving force behind Seattle's rapid growth. Especially the tertiary industry in Chengdu has developed rapidly in recent years.
 Among them, the performance of the financial industry is particularly outstanding.
 Software industry and scientific research are also developing well.
 
@@ -1079,16 +1079,22 @@ The commuting conditions of Chengdu are better and the commuting time is short, 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Commuting%20time.html" width="100%" height="450px"   frameborder="1/0"     scrolling="no">   
 </iframe>
 
-### What about tech? 
-#### A short look at the taxi industry.
+### A short look at the taxi industry.
+
+The high efficiency of Chengdu commuting is inseparable from its efficient transportation network.
+Combined with its road network and taxi track, it can be seen that although Chengdu is also a central radiation urban layout, it has a very high flexibility in administrative district planning and road network construction, and effectively reduces traffic congestion. 
+
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/keplerChengduTaxi.html" width="100%" height="450px"   frameborder="1/0"     scrolling="no">   
 </iframe>
 
-### Overview
+
 
 ## But Chengdu is big
 
 ### Living and Working 
+
+In terms of living density and work density, the various administrative districts of Chengdu show significant differences and aggregation characteristics to the center of the city.
+It can be seen that the vast majority of Chengdu people live and work in the four urban districts: Wuhou, Jingjiang, Qingyang, Jinniu and Chenghua.
 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/WorkingDensity.html" width="100%" height="500px"   frameborder="1/0"     scrolling="no">   
 </iframe>

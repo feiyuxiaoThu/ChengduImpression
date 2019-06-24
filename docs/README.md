@@ -912,6 +912,8 @@ According to a survey, Chengdu's development index and resident happiness index 
         </tr>
     </table>
 
+What is even more incredible is that Chengdu's performance in the future of career development is very bright.
+As many as 84.58 % of respondents rated their career prospects in Chengdu positively, compared with 53.54 % and 43.37 % in first-and second-tier cities, respectively.
 
 ```chart
 {

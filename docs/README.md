@@ -1074,7 +1074,7 @@ Software industry and scientific research are also developing well.
 The financial industry occupies a large proportion in the tertiary industry and its development trend is very stable.
 The proportion of the real estate industry fluctuates slightly.
 
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Finance&Real_Estate.html" width="100%" height="750px"   frameborder="1/0"     scrolling="no">  
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/Finance&Real_Estate.html" width="100%" height="450px"   frameborder="1/0"     scrolling="no">  
 </iframe>
 
 ### Efficency of tranportation
@@ -1133,7 +1133,7 @@ option = {
         axisTick:{
             alignWithLabel:true
         },
-        data: ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+        data: ['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
     },
 	yAxis:[{
 		type:'value',
@@ -1171,15 +1171,14 @@ option = {
 		name:'house price (RMB/m2)',
 		type:'line',
 		data:[
-		4864.00,
-		5827.00,
-		6360.89,
-		6678.46,
-		6708.00,
-		6536.00,
-		6584.00,
-		7377.00,
-		8595.00
+		7705,
+		8784,
+		8345,
+		8591,
+		8408,
+		8246,
+		8392,
+		9839
 		]
 	},
 	{
@@ -1187,7 +1186,6 @@ option = {
 		type:'line',
 		yAxisIndex:1,
 		data:[
-		2547.59,
 		2289.92,
 		2284.91,
 		2424.61,

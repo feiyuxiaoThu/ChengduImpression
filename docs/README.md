@@ -1180,7 +1180,7 @@ We compare the unit house price with other second-tier cities: Chongqing, Xi'an 
 </iframe>
 
 We also visualize the unit house price in each district and its trend from 2010 to 2019.
-<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="1200px" height="600px"   frameborder="1/0" scrolling="yes">   
+<iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0">   
 </iframe>
 
 

@@ -1211,7 +1211,11 @@ We also visualize the unit house price in each district and its trend from 2010 
 ## Bring it all together
 
 So far, we visually show the course of urban change and development of Chengdu in three main aspects: urban expansion, commercial development and housing price.
+
+The main line we want to convey is that Chengdu has better integrated commercial development and urban scale expansion in the process of its urbanization, and attaches great importance to the construction and planning of infrastructure, and has effectively controlled the house price.
+
 As the core city of the rapid development of western China, Chengdu has indeed shown its strong economic development potential and the driving force of scientific and technological progress, and has an amazing performance in the process of urbanization, which has accumulated valuable experience and provided a good model for the continuous urbanization of our country.
+
 Of course, like other major cities, Chengdu still faces the pressure of excessive rising house prices and sustained population growth, which is also a problem that needs to be handled cautiously in the future.
 
 ## Data Sources
@@ -1256,7 +1260,7 @@ https://www.lagou.com/gongsi/252-0-0-0
 ## About Us
 Our names are [Xiao Feiyu](https://github.com/feiyuxiaothu), [Fang Xiaonan](https://github.com/fornorp) and [Zhang Yusheng](https://github.com/x2yszzz).
 
-This project was created for the 2019Spring course : Data Visualization, at the Department os Computer Science within Tsinghua University.
+This project was created for the 2019Spring course : Data Visualization, at the Department of Computer Science within Tsinghua University.
 
 Special thanks to our professor: Prof. Zhang Songhai
 

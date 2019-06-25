@@ -1208,7 +1208,6 @@ We also visualize the unit house price in each district and its trend from 2010 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0">   
 </iframe>
 
-## Bringing it all together
 
 ## Data Sources
 

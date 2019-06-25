@@ -1208,6 +1208,11 @@ We also visualize the unit house price in each district and its trend from 2010 
 <iframe   src="https://feiyuxiaothu.github.io/Exploration-of-Chengdu-Landscope/Charts/map-chengdu.html" width="100%" height="600px"   frameborder="1/0">   
 </iframe>
 
+## Bring it all together
+
+So far, we visually show the course of urban change and development of Chengdu in three main aspects: urban expansion, commercial development and housing price.
+As the core city of the rapid development of western China, Chengdu has indeed shown its strong economic development potential and the driving force of scientific and technological progress, and has an amazing performance in the process of urbanization, which has accumulated valuable experience and provided a good model for the continuous urbanization of our country.
+Of course, like other major cities, Chengdu still faces the pressure of excessive rising house prices and sustained population growth, which is also a problem that needs to be handled cautiously in the future.
 
 ## Data Sources
 
